@@ -1,53 +1,72 @@
-# Hi there 👋
+# Hi there 👋 I'm goyalsgit
 
-Welcome to my GitHub profile! I'm **goyalsgit**, a passionate developer dedicated to building innovative solutions and contributing to the open-source community.
+I'm a final-year **B.Tech Computer Science student at LNMIIT Jaipur**, passionate about software development, problem-solving, and building practical applications.
+
+I enjoy solving challenging DSA problems, learning backend technologies, and developing projects that combine strong engineering fundamentals with real-world use cases.
 
 ## 🚀 About Me
 
-I'm a full-stack developer with a passion for clean code, continuous learning, and solving complex problems. I love collaborating on open-source projects and sharing knowledge with the developer community.
+- 🎓 Final-year B.Tech CSE student at LNMIIT Jaipur
+- 💻 Solved **600+ problems on LeetCode**, focusing on data structures and algorithms
+- ⚙️ Interested in **Software Development and Backend Engineering**
+- 🛠️ Building projects involving REST APIs, databases, concurrency, and AI
+- 🤖 Exploring computer vision and AI-powered applications
+- 🤝 Operations Head at the Robotics Club, contributing to technical events and team coordination
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, Java, HTML, CSS
+**Languages:** C++, Java, JavaScript, TypeScript, Python, SQL
 
-**Frontend:** React, Vue.js, Next.js, Tailwind CSS
+**Backend Development:** Node.js, Express.js, Spring Boot, REST APIs, TCP Socket Programming
 
-**Backend:** Node.js, Express, Spring Boot
+**Frontend Development:** React, TypeScript, HTML, CSS
 
-**Databases:** MongoDB, PostgreSQL, MySQL, Firebase
+**Databases:** PostgreSQL, MySQL, MongoDB
 
-**Tools & Platforms:** Git, Docker, Kubernetes, AWS, GitHub Actions, Linux
+**Tools & Technologies:** Git, GitHub, Docker, Linux
 
-## 🎯 Current Focus
+**Core CS Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Computer Networks
 
-- 🔍 Exploring new technologies and frameworks
-- 📚 Contributing to open-source projects
-- 🛠️ Building scalable web applications
-- 🤝 Collaborating with developers worldwide
+## 🛠️ Featured Projects
 
-## 📊 GitHub Statistics
+### 📅 BookFlow — Booking Management Platform
+
+A full-stack booking platform designed to manage appointments and resource availability across organizations.
+
+- Built using React, TypeScript, Express.js, and PostgreSQL.
+- Implemented timezone-aware availability, booking holds, cancellations, rescheduling, and waitlists.
+- Designed concurrency-safe booking workflows using PostgreSQL advisory locks, transactional revalidation, and exclusion constraints.
+- Added request validation and organization-level authorization for reliable and secure booking operations.
+- Explored AI-assisted booking preferences through natural-language input.
+
+### ✍️ Air-Gesture Writing & Handwritten Text Recognition
+
+An AI and computer vision project that combines air-gesture writing with handwritten text recognition.
+
+- Developed an air-gesture interface for writing and virtual painting.
+- Explored computer vision techniques for gesture tracking and jitter reduction.
+- Integrated TrOCR for handwritten text recognition and experimented with model fine-tuning.
+- Used Docker to support a reproducible development environment.
+
+## 🧠 Problem Solving
+
+- **600+ LeetCode problems solved**
+- Strong interest in algorithmic problem-solving and competitive programming
+- Practicing trees, graphs, dynamic programming, binary search, greedy algorithms, and advanced data structures
+
+## 📊 GitHub Profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goyalsgit&color=blue)
 
-## 🏆 Achievements
+Explore my repositories to see my projects, coding practice, and ongoing learning.
 
-- Active Open Source Contributor
-- Problem Solver & Code Enthusiast
-- Continuous Learner
+## 📫 Connect With Me
 
-## 📫 Get in Touch
-
-- 💼 [LinkedIn](https://linkedin.com/in/goyalsgit)
-- 🐦 [Twitter](https://twitter.com/goyalsgit)
-- 📧 Email: your.email@example.com
-- 🌐 [Portfolio](https://yourportfolio.com)
-
-## 📈 Latest Projects
-
-Check out my pinned repositories below to see what I've been working on!
+- 💼 LinkedIn: [linkedin.com/in/goyalsgit](https://linkedin.com/in/goyalsgit)
+- 💻 GitHub: [github.com/goyalsgit](https://github.com/goyalsgit)
 
 ---
 
-⭐ If you find my work helpful, feel free to star my repositories and follow me for more updates!
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-**Happy Coding! 🚀**
+**Always learning, building, and solving problems. 🚀**
