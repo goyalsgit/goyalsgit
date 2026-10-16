@@ -12,7 +12,7 @@ I'm a full-stack developer with a passion for clean code, continuous learning, a
 
 **Frontend:** React, Vue.js, Next.js, Tailwind CSS
 
-**Backend:** Node.js, Express, Django, Spring Boot
+**Backend:** Node.js, Express, Spring Boot
 
 **Databases:** MongoDB, PostgreSQL, MySQL, Firebase
 
