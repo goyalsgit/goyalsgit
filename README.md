@@ -1,4 +1,4 @@
-# Hi there 👋 I'm goyalsgit
+# Hi there 👋 I'm Dev@nsh Goyal
 
 I'm a final-year **B.Tech Computer Science student at LNMIIT Jaipur**, passionate about software development, problem-solving, and building practical applications.
 
